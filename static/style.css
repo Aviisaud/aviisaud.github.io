@@ -39,6 +39,7 @@ video {
 .header-content {
     text-align: center;
     z-index: 1;
+    color: #ffffff;
 }
 
 h1 {
